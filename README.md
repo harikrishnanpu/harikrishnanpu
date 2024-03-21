@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @harikrishnanpu,
+- Currently: Completed 12th CBSE Board exam 🙂
 - 👀 I’m interested in ... Coding,Reading Books,
 - 🌱 I’m currently learned ... React,Node,Express,MongoDB,Git
 - I'm currently learning ... React Native, Cyber Security
