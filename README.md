@@ -9,4 +9,7 @@
 I'm a passionate **Full Stack Web Developer** in the making, currently undergoing an intense 1-year training program at **Brototype**. 
 My focus is on building scalable and responsive web applications using the **M**
 
-Contact Me: harikrishnan9a@gmail.com
+## Mail: harikrishnan9a@gmail.com
+## LinkedIn: https://www.linkedin.com/in/hari-krishnan-pavoor/
+## Portfolio: https://harikrishnanpu.github.io/
+
