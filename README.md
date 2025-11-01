@@ -1,6 +1,5 @@
 # Hi there, I'm Hari Krishnan Pavoor!
-### MERN Stack Developer | Currently pursuing Full Stack Web Development @ Brototype
----
+## MERN Stack Developer
 ## About Me
 I'm a passionate **Full Stack Web Developer** in the making, currently undergoing an intense 1-year training program at **Brototype**. 
 My focus is on building scalable and responsive web applications.
